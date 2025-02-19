@@ -9,9 +9,9 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Darwin's Blog",
+  title: "Autheticated Dashboard By Darwin",
   description:
-    "Hi, I’m Darwin Piodos, a passionate graphic designer with a journey rooted in dedication and creativity.",
+    "Secure and responsive authentication dashboard built with Next.js, MongoDB, NextAuth, and Tailwind CSS. Features user registration, login, protected routes, session management, and password hashing for a seamless and secure experience.",
 };
 
 export default function RootLayout({ children }) {
